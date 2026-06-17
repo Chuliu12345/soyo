@@ -1,0 +1,52 @@
+[
+  {
+    "code": "399001",
+    "source": "akshare_em",
+    "name": "深证成指"
+  },
+  {
+    "code": "399006",
+    "source": "akshare_em",
+    "name": "创业板指"
+  },
+  {
+    "code": "HSI",
+    "source": "akshare_hk",
+    "name": "恒生指数"
+  },
+  {
+    "code": "HSTECH",
+    "source": "akshare_hk",
+    "name": "恒生科技指数"
+  },
+  {
+    "code": "HSCEI",
+    "source": "akshare_hk",
+    "name": "恒生中国企业指数"
+  },
+  {
+    "code": "DJIA",
+    "source": "akshare_global",
+    "name": "道琼斯"
+  },
+  {
+    "code": "IXIC",
+    "source": "akshare_global",
+    "name": "纳斯达克"
+  },
+  {
+    "code": "SPX",
+    "source": "akshare_global",
+    "name": "标普500"
+  },
+  {
+    "code": "N225",
+    "source": "akshare_global",
+    "name": "日经225指数"
+  },
+  {
+    "code": "017193",
+    "source": "akshare_em",
+    "name": "017193"
+  }
+]
